@@ -11,21 +11,6 @@ Software developer passionate about [specific areas of interest, e.g., web devel
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-📊 GitHub Contributions
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=uint82&theme=react-dark&hide_border=true" width="100%"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=uint82&theme=radical&no-frame=true&row=1&&margin-w=30" width="100%"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uint82&theme=radical&hide_border=true" alt="Contribution Streak"/>
-</p>
-<!-- Snake animation -->
-<div align="center">
-  <img src="https://github.com/uint82/uint82/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</div>
-
 ## 📫 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
