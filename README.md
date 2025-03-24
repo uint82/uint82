@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Hilmi Abroor!
 
 ## About Me
-Software developer passionate about [specific areas of interest, e.g., web development, blockchain, etc.]. Currently information system at Terbuka University].
+Software developer passionate about specific web development and blockchain. Currently information system at Terbuka University.
 
 ## 🛠️ Technical Skills
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
