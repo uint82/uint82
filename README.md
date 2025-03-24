@@ -25,4 +25,4 @@ Software developer passionate about [specific areas of interest, e.g., web devel
 </p>
 
 ---
-⭐️ From [uint82](https://github.com/yourusername)
+⭐️ From [uint82](https://github.com/uint82)
