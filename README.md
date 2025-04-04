@@ -29,14 +29,11 @@ Software developer passionate about specific web development and blockchain. Cur
 
 ## 📫 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/hilmi-abror-022123204/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:abrorhilmi6@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
 </p>
 
