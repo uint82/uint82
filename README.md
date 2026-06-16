@@ -1,33 +1,11 @@
-# 👋 Hello, I'm Hilmi Abroor!
+I'm Hilmi Abroor, a student at Open University Surabaya. I love programming. Like, a lot.
 
-## About Me
-Software developer. Currently studying information system at Terbuka University.
+<a href="https://abroor.vercel.app"><img src="https://img.shields.io/badge/-Publications-3781da" alt="Publication"/></a>
+<a href="https://www.linkedin.com/in/hilmiabror/"><img src="https://img.shields.io/badge/-LinkedIn-3781da" alt="LinkedIn"/></a>
+<a href="mailto:abroorhilmi@gmail.com"><img src="https://img.shields.io/badge/-Contact-3781da" alt="Contact"/></a>
 
-## 🛠️ Technical Skills
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+## Main projects&nbsp; ![](https://img.shields.io/github/stars/uint82/typa?style=solid&label=★&labelColor=212830&color=212830) ![](https://img.shields.io/github/stars/uint82/personal-website?style=solid&label=★&labelColor=212830&color=212830)
 
-
-## 📫 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/hilmi-abror-022123204" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:abrorhilmi6@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
-
----
-⭐️ From [Creator](https://github.com/uint82)
+- **[instant-ngp](https://github.com/uint82/typa)** - terminal based typing test (rust)
+- **[instant-ngp](https://github.com/uint82/personal-website)** - personal website
+- **[instant-ngp](https://github.com/uint82/lazytype)** - monkeytype clone
