@@ -4,7 +4,7 @@ I'm Hilmi Abroor, a student at Open University Surabaya. I love programming. Lik
 <a href="https://www.linkedin.com/in/hilmiabror/"><img src="https://img.shields.io/badge/-LinkedIn-3781da" alt="LinkedIn"/></a>
 <a href="mailto:abroorhilmi@gmail.com"><img src="https://img.shields.io/badge/-Contact-3781da" alt="Contact"/></a>
 
-## Main projects&nbsp; ![](https://img.shields.io/github/stars/uint82/typa?style=solid&label=★&labelColor=212830&color=212830) ![](https://img.shields.io/github/stars/uint82/personal-website?style=solid&label=★&labelColor=212830&color=212830) ![](https://img.shields.io/github/stars/uint82/lazytype?style=solid&label=★&labelColor=212830&color=212830)
+## Main projects&nbsp; ![](https://badgen.net/github/stars/uint82/typa) ![](https://badgen.net/github/stars/uint82/personal-website) ![](https://badgen.net/github/stars/uint82/lazytype) 
 
 - **[typa](https://github.com/uint82/typa)** - terminal based typing test (rust)
 - **[personal-website](https://github.com/uint82/personal-website)** - personal website
