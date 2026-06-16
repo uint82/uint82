@@ -11,4 +11,4 @@ I'm Hilmi Abroor, a student at Open University Surabaya. I love programming. Lik
 - **[lazytype](https://github.com/uint82/lazytype)** - monkeytype clone
 
 ## Misc project&nbsp; ![](https://img.shields.io/github/stars/uint82/sudokusquad?style=solid&label=★&labelColor=212830&color=212830)
-- **[sudokusquad](https://github.com/uint82/sudokusquad)** - real-time, multiplayer, and minimal sudoku game
+- **[sudokusquad](https://github.com/uint82/onlinesudoku)** - real-time, multiplayer, and minimal sudoku game
